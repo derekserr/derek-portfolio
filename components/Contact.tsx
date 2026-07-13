@@ -13,7 +13,7 @@ export default function Contact() {
         </div>
 
         <div className="flex gap-6 text-sm text-neutral-600">
-          <a href="https://github.com/greendolph1n" className="hover:text-black">
+          <a href="https://github.com/derekserr" className="hover:text-black">
             GitHub
           </a>
           <a href="https://www.linkedin.com/in/derek-serrano/" className="hover:text-black">
